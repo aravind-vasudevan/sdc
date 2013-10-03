@@ -1,0 +1,6 @@
+input/*
+output/*
+*.o
+*.exe
+*.sw*
+*.fuse*
